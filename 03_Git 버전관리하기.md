@@ -23,7 +23,7 @@
 <br>
 
 생성한 로컬저장소 git-test를 더블클릭한다.<br>
-<img width="700" title="" src="git_images/gv-05-image.png">
+<img width="400" title="" src="git_images/gv-05-image.png">
 <br>
 
 git-test 저장소에 테스트할 a.rtf(a.txt) 파일을 생성하면, 소스트리에 자동으로 추가된다. <br>
@@ -79,6 +79,6 @@ a.rtf 파일을 수정 후 commit을 하면 수정된 a.rtf 파일이 선택되�
 (5) 작업 되돌리기
 - 스테이지에 올리기/내리기<br>
   <img width="700" src="git_images/gv-15-image.png">
-  체크박스 선택시 자동 올리기/내리기 이동
+  체크박스 선택시 자동 올리기/내리기 이동<br>
 
 - 커밋 되돌리기 revert/reverse (추가정리)<br>
