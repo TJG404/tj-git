@@ -21,11 +21,11 @@
 
 #### 2) 소스트리와 원격 저장소 연결
 
-복제할 원격 저장소 선택 후 클론 버튼 클릭
+복제할 원격 저장소 선택 후 클론 버튼 클릭<br>
 <img width="500" title="" src="git_images/gh2-02-image.png">
 <br>
 
-목적지 경로를 git-test-clone 으로 변경
+목적지 경로를 git-test-clone 으로 변경<br>
 <img width="500" title="" src="git_images/gh2-03-image.png"><br>
 
 
