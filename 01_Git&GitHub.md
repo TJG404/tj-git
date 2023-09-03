@@ -10,7 +10,7 @@
 
 ## (2) Git 저장 영역
 
-<img width="700" alt="git01" src="../git_images/image.png">
+<img width="700" alt="git01" src=" git_images/image.png">
 
 Git을 사용하기 위해서는 기본적으로 가상의 영역이 있다는 것을 알아야 한다. 계속 수정해야 하는 모든 변경 사항에 대한 기록을 막 남기는 것이 아니라, 어떠한 기능을 추가했다던가, 문제가 생기는 이슈를 처리했다거나 등의 유의미한 기록을 남기는데 일반적인 기록을 남기는 것을 방지하기 위해 임시 저장 영역이 존재한다. 
 
@@ -23,7 +23,7 @@ Git을 사용하기 위해서는 기본적으로 가상의 영역이 있다는 �
 
 ## (3) Git 파일 상태
 
-<img width="700" alt="git02" src="../git_images/image-1.png">
+<img width="700" alt="git02" src=" git_images/image-1.png">
 
 내가 수정하고 있는 파일의 상태에 대해서도 Git에게 알려줘야 한다.
 
