@@ -61,26 +61,26 @@ New 메뉴 클릭<br>
 <img width="300"  src="git_images/github_13_image.png">
 <br><br>
 
-하단으로 내려온 후 Developer Settings 메뉴 클릭
+하단으로 내려온 후 Developer Settings 메뉴 클릭<br>
 <img width="700"  src="git_images/github_14_image.png">
 <br><br>
 
-Personal access token > Tokens(classic) 클릭
+Personal access token > Tokens(classic) 클릭<br>
 <img width="700"  src="git_images/github_15_image.png">
 <br><br>
 
-Generate new token > Generate new token(classic) 클릭
+Generate new token > Generate new token(classic) 클릭<br>
 <img width="700"  src="git_images/github_16_image.png">
 <img width="700"  src="git_images/github_17_image.png">
 <br><br>
 
-New personal access token(classic) 속성 선택
+New personal access token(classic) 속성 선택<br>
 <img width="700"  src="git_images/github_18_image.png">
 <img width="700"  src="git_images/github_19_image.png">
 <br><br>
 
-토큰 발행 완료 —> 향후 프로그램 코드를 현재 로그인한  GitHub에 push 하기 위해서는 반드시 토큰이 필요함!!
-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  복사해서 꼭 저장해 놓기!!
-<img width="700"  src=" git_images/github_20_image.png">
+토큰 발행 완료 —> 향후 프로그램 코드를 현재 로그인한  GitHub에 push 하기 위해서는 반드시 토큰이 필요함!!<br>
+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  복사해서 꼭 저장해 놓기!!<br>
+<img width="700"  src="git_images/github_20_image.png">
 
 
