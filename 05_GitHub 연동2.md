@@ -52,7 +52,7 @@ ls -a git-test-clone
 
 
 워크스페이스에 등록된 git-test-clone의 파일 확인 후 commit 버튼 실행<br>
-<img width="700" title="" src="git_images/gh2-09-image.png"><br>
+<img width="400" title="" src="git_images/gh2-09-image.png"><br>
 
 
 커밋한 파일을 소스트리에서 확인한다.<br>
