@@ -78,7 +78,7 @@ a.rtf 파일을 수정 후 commit을 하면 수정된 a.rtf 파일이 선택되�
 
 (5) 작업 되돌리기
 - 스테이지에 올리기/내리기<br>
-  <img width="700" src="git_images/gv-15-image.png">
+  <img width="700" src="git_images/gv-15-image.png"><br>
   체크박스 선택시 자동 올리기/내리기 이동<br>
 
 - 커밋 되돌리기 revert/reverse (추가정리)<br>
